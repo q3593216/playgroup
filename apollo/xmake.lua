@@ -1,16 +1,52 @@
 set_project("apollo")
 
-set_languages("c++17")
+set_languages("c++14")
 
 set_warnings("all")
 
 add_rules("mode.debug", "mode.release")
 
-add_requires("gtest")
+add_repositories("repo third_party")
+
+add_requires("gtest", "glog 0.4.0", "gflags","nlohmann_json", "protobuf-cpp", {system = false , external = false})
+add_requires("fast-rtps", {system = false , external = false})
+
+-- add_includedirs("$(projectdir)/build/.gens/cc_proto/linux/x86_64/release/rules/protobuf")
 
 add_includedirs("$(projectdir)")
 
+add_packages("fast-rtps")
+
+
+
+add_syslinks("pthread", "dl", "uuid", "atomic", "rt")
+
 includes("cyber")
+
+-- target("task_test")
+--   set_kind("binary")
+--   add_files("example/croutine/croutine_test.cc")
+--   add_deps("cc_proto", "cyber")
+--   add_packages("protobuf-cpp", "glog", "nlohmann_json", "gflag", "gtest", { public = true })
+--   set_policy("build.across_targets_in_parallel", false)
+
+target("listener")
+  set_kind("binary")
+  add_files("example/listener.cc")
+  add_deps("cc_proto", "cyber")
+  add_packages("protobuf-cpp", "glog", "nlohmann_json", "gflag")
+  set_policy("build.across_targets_in_parallel", false)
+
+target("talker")
+  set_kind("binary")
+  add_files("example/talker.cc")
+  add_deps("cc_proto", "cyber")
+  add_packages("protobuf-cpp", "glog", "nlohmann_json", "gflag")
+  set_policy("build.across_targets_in_parallel", false)
+
+
+
+
 
 --
 -- If you want to known more usage about xmake, please see https://xmake.io

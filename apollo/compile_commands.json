@@ -1,0 +1,561 @@
+[
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/g/gtest/1.12.1/77b9096bc4b34d9282f672d36b015ba9/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/task_test/linux/x86_64/release/example/croutine/croutine_test.cc.o", "example/croutine/croutine_test.cc"],
+  "file": "example/croutine/croutine_test.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/init.cc.o", "cyber/init.cc"],
+  "file": "cyber/init.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/binary.cc.o", "cyber/binary.cc"],
+  "file": "cyber/binary.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/blocker/blocker_manager.cc.o", "cyber/blocker/blocker_manager.cc"],
+  "file": "cyber/blocker/blocker_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/class_loader.cc.o", "cyber/class_loader/class_loader.cc"],
+  "file": "cyber/class_loader/class_loader.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/class_loader_manager.cc.o", "cyber/class_loader/class_loader_manager.cc"],
+  "file": "cyber/class_loader/class_loader_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/shared_library/sample.cc.o", "cyber/class_loader/shared_library/sample.cc"],
+  "file": "cyber/class_loader/shared_library/sample.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/shared_library/shared_library.cc.o", "cyber/class_loader/shared_library/shared_library.cc"],
+  "file": "cyber/class_loader/shared_library/shared_library.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/test/plugin1.cc.o", "cyber/class_loader/test/plugin1.cc"],
+  "file": "cyber/class_loader/test/plugin1.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/test/plugin2.cc.o", "cyber/class_loader/test/plugin2.cc"],
+  "file": "cyber/class_loader/test/plugin2.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/utility/class_factory.cc.o", "cyber/class_loader/utility/class_factory.cc"],
+  "file": "cyber/class_loader/utility/class_factory.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/class_loader/utility/class_loader_utility.cc.o", "cyber/class_loader/utility/class_loader_utility.cc"],
+  "file": "cyber/class_loader/utility/class_loader_utility.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/common/file.cc.o", "cyber/common/file.cc"],
+  "file": "cyber/common/file.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/common/global_data.cc.o", "cyber/common/global_data.cc"],
+  "file": "cyber/common/global_data.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/component/timer_component.cc.o", "cyber/component/timer_component.cc"],
+  "file": "cyber/component/timer_component.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/croutine/croutine.cc.o", "cyber/croutine/croutine.cc"],
+  "file": "cyber/croutine/croutine.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/croutine/detail/routine_context.cc.o", "cyber/croutine/detail/routine_context.cc"],
+  "file": "cyber/croutine/detail/routine_context.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/cyber.cc.o", "cyber/cyber.cc"],
+  "file": "cyber/cyber.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/event/perf_event_cache.cc.o", "cyber/event/perf_event_cache.cc"],
+  "file": "cyber/event/perf_event_cache.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/io/poller.cc.o", "cyber/io/poller.cc"],
+  "file": "cyber/io/poller.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/io/poll_handler.cc.o", "cyber/io/poll_handler.cc"],
+  "file": "cyber/io/poll_handler.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/io/session.cc.o", "cyber/io/session.cc"],
+  "file": "cyber/io/session.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/logger/async_logger.cc.o", "cyber/logger/async_logger.cc"],
+  "file": "cyber/logger/async_logger.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/logger/logger.cc.o", "cyber/logger/logger.cc"],
+  "file": "cyber/logger/logger.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/logger/logger_util.cc.o", "cyber/logger/logger_util.cc"],
+  "file": "cyber/logger/logger_util.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/logger/log_file_object.cc.o", "cyber/logger/log_file_object.cc"],
+  "file": "cyber/logger/log_file_object.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/mainboard/mainboard.cc.o", "cyber/mainboard/mainboard.cc"],
+  "file": "cyber/mainboard/mainboard.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/mainboard/module_argument.cc.o", "cyber/mainboard/module_argument.cc"],
+  "file": "cyber/mainboard/module_argument.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/mainboard/module_controller.cc.o", "cyber/mainboard/module_controller.cc"],
+  "file": "cyber/mainboard/module_controller.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/message/protobuf_factory.cc.o", "cyber/message/protobuf_factory.cc"],
+  "file": "cyber/message/protobuf_factory.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/node/node.cc.o", "cyber/node/node.cc"],
+  "file": "cyber/node/node.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/parameter/parameter.cc.o", "cyber/parameter/parameter.cc"],
+  "file": "cyber/parameter/parameter.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/parameter/parameter_client.cc.o", "cyber/parameter/parameter_client.cc"],
+  "file": "cyber/parameter/parameter_client.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/parameter/parameter_server.cc.o", "cyber/parameter/parameter_server.cc"],
+  "file": "cyber/parameter/parameter_server.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/file/record_file_base.cc.o", "cyber/record/file/record_file_base.cc"],
+  "file": "cyber/record/file/record_file_base.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/file/record_file_reader.cc.o", "cyber/record/file/record_file_reader.cc"],
+  "file": "cyber/record/file/record_file_reader.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/file/record_file_writer.cc.o", "cyber/record/file/record_file_writer.cc"],
+  "file": "cyber/record/file/record_file_writer.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/header_builder.cc.o", "cyber/record/header_builder.cc"],
+  "file": "cyber/record/header_builder.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/record_reader.cc.o", "cyber/record/record_reader.cc"],
+  "file": "cyber/record/record_reader.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/record_viewer.cc.o", "cyber/record/record_viewer.cc"],
+  "file": "cyber/record/record_viewer.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/record/record_writer.cc.o", "cyber/record/record_writer.cc"],
+  "file": "cyber/record/record_writer.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/common/pin_thread.cc.o", "cyber/scheduler/common/pin_thread.cc"],
+  "file": "cyber/scheduler/common/pin_thread.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/policy/choreography_context.cc.o", "cyber/scheduler/policy/choreography_context.cc"],
+  "file": "cyber/scheduler/policy/choreography_context.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/policy/classic_context.cc.o", "cyber/scheduler/policy/classic_context.cc"],
+  "file": "cyber/scheduler/policy/classic_context.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/policy/scheduler_choreography.cc.o", "cyber/scheduler/policy/scheduler_choreography.cc"],
+  "file": "cyber/scheduler/policy/scheduler_choreography.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/policy/scheduler_classic.cc.o", "cyber/scheduler/policy/scheduler_classic.cc"],
+  "file": "cyber/scheduler/policy/scheduler_classic.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/processor.cc.o", "cyber/scheduler/processor.cc"],
+  "file": "cyber/scheduler/processor.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/processor_context.cc.o", "cyber/scheduler/processor_context.cc"],
+  "file": "cyber/scheduler/processor_context.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/scheduler.cc.o", "cyber/scheduler/scheduler.cc"],
+  "file": "cyber/scheduler/scheduler.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/scheduler/scheduler_factory.cc.o", "cyber/scheduler/scheduler_factory.cc"],
+  "file": "cyber/scheduler/scheduler_factory.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/communication/participant_listener.cc.o", "cyber/service_discovery/communication/participant_listener.cc"],
+  "file": "cyber/service_discovery/communication/participant_listener.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/communication/subscriber_listener.cc.o", "cyber/service_discovery/communication/subscriber_listener.cc"],
+  "file": "cyber/service_discovery/communication/subscriber_listener.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/container/graph.cc.o", "cyber/service_discovery/container/graph.cc"],
+  "file": "cyber/service_discovery/container/graph.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/container/multi_value_warehouse.cc.o", "cyber/service_discovery/container/multi_value_warehouse.cc"],
+  "file": "cyber/service_discovery/container/multi_value_warehouse.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/container/single_value_warehouse.cc.o", "cyber/service_discovery/container/single_value_warehouse.cc"],
+  "file": "cyber/service_discovery/container/single_value_warehouse.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/role/role.cc.o", "cyber/service_discovery/role/role.cc"],
+  "file": "cyber/service_discovery/role/role.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/specific_manager/channel_manager.cc.o", "cyber/service_discovery/specific_manager/channel_manager.cc"],
+  "file": "cyber/service_discovery/specific_manager/channel_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/specific_manager/manager.cc.o", "cyber/service_discovery/specific_manager/manager.cc"],
+  "file": "cyber/service_discovery/specific_manager/manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/specific_manager/node_manager.cc.o", "cyber/service_discovery/specific_manager/node_manager.cc"],
+  "file": "cyber/service_discovery/specific_manager/node_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/specific_manager/service_manager.cc.o", "cyber/service_discovery/specific_manager/service_manager.cc"],
+  "file": "cyber/service_discovery/specific_manager/service_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/service_discovery/topology_manager.cc.o", "cyber/service_discovery/topology_manager.cc"],
+  "file": "cyber/service_discovery/topology_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/state.cc.o", "cyber/state.cc"],
+  "file": "cyber/state.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/sysmo/sysmo.cc.o", "cyber/sysmo/sysmo.cc"],
+  "file": "cyber/sysmo/sysmo.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/task/task_manager.cc.o", "cyber/task/task_manager.cc"],
+  "file": "cyber/task/task_manager.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/time/clock.cc.o", "cyber/time/clock.cc"],
+  "file": "cyber/time/clock.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/time/duration.cc.o", "cyber/time/duration.cc"],
+  "file": "cyber/time/duration.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/time/rate.cc.o", "cyber/time/rate.cc"],
+  "file": "cyber/time/rate.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/time/time.cc.o", "cyber/time/time.cc"],
+  "file": "cyber/time/time.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/timer/timer.cc.o", "cyber/timer/timer.cc"],
+  "file": "cyber/timer/timer.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/timer/timing_wheel.cc.o", "cyber/timer/timing_wheel.cc"],
+  "file": "cyber/timer/timing_wheel.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/common/endpoint.cc.o", "cyber/transport/common/endpoint.cc"],
+  "file": "cyber/transport/common/endpoint.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/common/identity.cc.o", "cyber/transport/common/identity.cc"],
+  "file": "cyber/transport/common/identity.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/dispatcher/dispatcher.cc.o", "cyber/transport/dispatcher/dispatcher.cc"],
+  "file": "cyber/transport/dispatcher/dispatcher.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/dispatcher/intra_dispatcher.cc.o", "cyber/transport/dispatcher/intra_dispatcher.cc"],
+  "file": "cyber/transport/dispatcher/intra_dispatcher.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/dispatcher/rtps_dispatcher.cc.o", "cyber/transport/dispatcher/rtps_dispatcher.cc"],
+  "file": "cyber/transport/dispatcher/rtps_dispatcher.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/dispatcher/shm_dispatcher.cc.o", "cyber/transport/dispatcher/shm_dispatcher.cc"],
+  "file": "cyber/transport/dispatcher/shm_dispatcher.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/message/message_info.cc.o", "cyber/transport/message/message_info.cc"],
+  "file": "cyber/transport/message/message_info.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/qos/qos_profile_conf.cc.o", "cyber/transport/qos/qos_profile_conf.cc"],
+  "file": "cyber/transport/qos/qos_profile_conf.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/rtps/attributes_filler.cc.o", "cyber/transport/rtps/attributes_filler.cc"],
+  "file": "cyber/transport/rtps/attributes_filler.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/rtps/participant.cc.o", "cyber/transport/rtps/participant.cc"],
+  "file": "cyber/transport/rtps/participant.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/rtps/sub_listener.cc.o", "cyber/transport/rtps/sub_listener.cc"],
+  "file": "cyber/transport/rtps/sub_listener.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/rtps/underlay_message.cc.o", "cyber/transport/rtps/underlay_message.cc"],
+  "file": "cyber/transport/rtps/underlay_message.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/rtps/underlay_message_type.cc.o", "cyber/transport/rtps/underlay_message_type.cc"],
+  "file": "cyber/transport/rtps/underlay_message_type.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/block.cc.o", "cyber/transport/shm/block.cc"],
+  "file": "cyber/transport/shm/block.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/condition_notifier.cc.o", "cyber/transport/shm/condition_notifier.cc"],
+  "file": "cyber/transport/shm/condition_notifier.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/multicast_notifier.cc.o", "cyber/transport/shm/multicast_notifier.cc"],
+  "file": "cyber/transport/shm/multicast_notifier.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/notifier_factory.cc.o", "cyber/transport/shm/notifier_factory.cc"],
+  "file": "cyber/transport/shm/notifier_factory.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/posix_segment.cc.o", "cyber/transport/shm/posix_segment.cc"],
+  "file": "cyber/transport/shm/posix_segment.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/readable_info.cc.o", "cyber/transport/shm/readable_info.cc"],
+  "file": "cyber/transport/shm/readable_info.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/segment.cc.o", "cyber/transport/shm/segment.cc"],
+  "file": "cyber/transport/shm/segment.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/segment_factory.cc.o", "cyber/transport/shm/segment_factory.cc"],
+  "file": "cyber/transport/shm/segment_factory.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/shm_conf.cc.o", "cyber/transport/shm/shm_conf.cc"],
+  "file": "cyber/transport/shm/shm_conf.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/state.cc.o", "cyber/transport/shm/state.cc"],
+  "file": "cyber/transport/shm/state.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/shm/xsi_segment.cc.o", "cyber/transport/shm/xsi_segment.cc"],
+  "file": "cyber/transport/shm/xsi_segment.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/g/glog/v0.4.0/f5f65d6a58eb41eb8a9cf1d183c0b9fb/include", "-I/home/jiacheng/.xmake/packages/n/nlohmann_json/v3.11.2/d0ab6439a26046eab271bd900a8ea21b/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-I", "/home/jiacheng/.xmake/packages/g/gflags/v2.2.2/0f545414272c459b907061d5e923ed20/include", "-DNDEBUG", "-o", "build/.objs/cyber/linux/x86_64/release/cyber/transport/transport.cc.o", "cyber/transport/transport.cc"],
+  "file": "cyber/transport/transport.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/choreography_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/choreography_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/choreography_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/classic_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/classic_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/classic_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/clock.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/clock.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/clock.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/cyber_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/cyber_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/cyber_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/dag_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/dag_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/dag_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/parameter.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/parameter.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/parameter.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/perf_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/perf_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/perf_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/qos_profile.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/qos_profile.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/qos_profile.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/record.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/record.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/record.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/role_attributes.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/role_attributes.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/role_attributes.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/scheduler_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/scheduler_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/scheduler_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/topology_change.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/topology_change.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/topology_change.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/transport_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/transport_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/transport_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/unit_test.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/unit_test.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/unit_test.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/component_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/component_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/component_conf.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/proto_desc.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/proto_desc.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/proto_desc.pb.cc"
+},
+{
+  "directory": "/media/jiacheng/Files/common/playground/apollo",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-Wall", "-O3", "-std=c++14", "-I/media/jiacheng/Files/common/playground/apollo", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf", "-I/media/jiacheng/Files/common/playground/apollo/third_party/packages/f/fast-rtps/linux/x86_64/release/include", "-I/home/jiacheng/.xmake/packages/p/protobuf-cpp/3.19.4/e71494ae9d544ed7a5ad809df77e8cf2/include", "-DNDEBUG", "-Ibuild/.gens/cc_proto/linux/x86_64/release/rules/protobuf/.", "-o", "build/.objs/cc_proto/linux/x86_64/release/gens/rules/protobuf/cyber/proto/run_mode_conf.pb.cc.o", "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/run_mode_conf.pb.cc"],
+  "file": "build/.gens/cc_proto/linux/x86_64/release/rules/protobuf/cyber/proto/run_mode_conf.pb.cc"
+}]
